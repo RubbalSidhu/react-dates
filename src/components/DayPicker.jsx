@@ -1,5 +1,4 @@
 import React, { PropTypes } from 'react';
-import momentPropTypes from 'react-moment-proptypes';
 import shallowCompare from 'react-addons-shallow-compare';
 import ReactDOM from 'react-dom';
 import { forbidExtraProps } from 'airbnb-prop-types';
